@@ -6,6 +6,6 @@
     "pg": "^8.7.1",
     "sequelize": "^6.6.5",
     "serverless": "^2.62.0",
-    "serverless-offline": "^8.2.0"
+    "serverless-offline": "^8.8.1"
   }
 }
